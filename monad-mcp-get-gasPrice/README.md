@@ -4,7 +4,7 @@ This is a Monad MCP server that allows you to query the real-time gas price of t
 
 > ⚠️ **Disclaimer**: This is an experimental feature built as part of my learning journey with Monad.
 
-As a novice, I developed the `get-gas-price` feature usinxg the [monad-mcp-tutorial](https://github.com/monad-developers/monad-mcp-tutorial) as a reference.  
+As a novice, I developed the `get-gas-price` feature using the [monad-mcp-tutorial](https://github.com/monad-developers/monad-mcp-tutorial) as a reference.  
 It's designed to fetch and log the current gas price.
 
 
