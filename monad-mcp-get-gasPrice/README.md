@@ -33,17 +33,17 @@ The server is now ready to use!
 
 1. Open "Claude Desktop"
 
-![claude desktop](/static/1.png)
+![claude desktop](/monad-mcp-get-gasPrice/static/1.png)
 
 2. Open Settings
 
 Claude > Settings > Developer
 
-![claude settings](/static/claude_settings.gif)
+![claude settings](/monad-mcp-get-gasPrice/static/claude_settings.gif)
 
 3. Open `claude_desktop_config.json` 
 
-![claude config](/static/config.gif)
+![claude config](/monad-mcp-get-gasPrice/static/config.gif)
 
 4. Add details about the MCP server and save the file.
 
